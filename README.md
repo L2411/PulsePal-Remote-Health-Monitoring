@@ -1,13 +1,13 @@
 # PulsePal-Remote-Health-Monitoring
 
-## 🚀 Introduction
+## Introduction
 
 PulsePal is a **Pulse Monitoring Web Application** that enables users to track and analyze:
 
 * Heart Rate (BPM)
 * Oxygen Saturation (SpO2)
 
-### 🔄 Workflow
+### Workflow
 
 1. Connect a **Bluetooth pulse oximeter** to a third-party mobile app
 2. Export health readings as a **CSV file**
@@ -19,30 +19,30 @@ This system ensures users stay informed and proactive about their health.
 
 ---
 
-## 🌐 Technologies & Networking Concepts
+## Technologies & Networking Concepts
 
-### 🔹 Bluetooth Technology
+### 1. Bluetooth Technology
 
 * Enables wireless connection between pulse oximeter and mobile device
 * Allows real-time data transmission
 
-### 🔹 File Transfer Protocols
+### 2. File Transfer Protocols
 
 * Uses **HTTP/HTTPS** for uploading CSV files
 * Ensures seamless file transfer
 
-### 🔹 Web Server Communication
+### 3. Web Server Communication
 
 * Secure communication via **HTTPS**
 * Server processes uploaded data and returns analysis
 
-### 🔹 Email & Messaging Protocols
+### 4. Email & Messaging Protocols
 
 * **SMTP** → Sending reports via email
 * **POP/IMAP** → Receiving emails
 * **SMS Gateway** → Instant alerts
 
-### 🔹 Transmission Protocol
+### 5. Transmission Protocol
 
 * **TCP** ensures reliable data transfer without loss
 ---
