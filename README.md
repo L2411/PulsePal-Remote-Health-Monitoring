@@ -47,12 +47,8 @@ This system ensures users stay informed and proactive about their health.
 * **TCP** ensures reliable data transfer without loss
 ---
 
-## 🏗️ System Architecture
-
-### 📌 Overview
-
+## System Architecture
 PulsePal consists of:
-
 * 📱 Mobile App (Bluetooth Data Collection)
 * 🌐 Web Application (Data Upload & Analysis)
 * ☁️ Server (Processing & Storage)
@@ -60,27 +56,11 @@ PulsePal consists of:
 ---
 
 ## 🌍 Contribution to SDG 11
-
 PulsePal supports sustainable urban healthcare through:
-
-### 1. 🏥 Improved Accessibility
-
-Remote monitoring reduces dependency on hospitals
-
-### 2. ⚠️ Early Detection
-
-Identifies issues before they become severe
-
-### 3. 📲 Real-time Alerts
-
-SMS and email notifications enable quick response
-
-### 4. 📚 Health Awareness
-
-Educates users about their health status
-
-### 5. 👵 Inclusive Healthcare
-
-Supports elderly and low-income populations
+1. Improved Accessibility - Remote monitoring reduces dependency on hospitals
+2. Early Detection - Identifies issues before they become severe
+3. Real-time Alerts - SMS and email notifications enable quick response
+4. Health Awareness - Educates users about their health status
+5. Inclusive Healthcare - Supports elderly and low-income populations
 
 ---
